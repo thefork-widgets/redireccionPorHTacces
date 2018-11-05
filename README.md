@@ -2,7 +2,7 @@
 
 /**************************************************************************************************/
 /*                                                                                                */
-/*  Añadir estas lineas de código en .htacces para redirecionar la web sin wwww a la web con wwww */ 
+/*  Add to .htacces file on server in order to redirect the url without wwww to with wwww */ 
 /*                                                                                                */
 /**************************************************************************************************/
 
